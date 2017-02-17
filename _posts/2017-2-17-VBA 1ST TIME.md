@@ -1,8 +1,8 @@
-
 ---
 layout: post
 title: TRY VBA
 ---
+
 My boss told me to generate automatical report via VBA. I haven't used it. So let's learn step by step.
 
 1.
