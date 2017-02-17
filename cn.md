@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中
+title: 警言
 permalink: /cn/
 ---
 
