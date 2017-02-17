@@ -1,9 +1,22 @@
+
 ---
 layout: post
-title: VBA 1ST TIME
+title: TRY VBA
 ---
+My boss told me to generate automatical report via VBA. I haven't used it. So let's learn step by step.
 
-It is the first time in my using VBA to generate plot. Cheers.
+1.
+
+```vba
+Sub AddNewWorkbook1()
+'
+'Adding New Workbook
+Workbooks.Add
+'Saving the Workbook
+ActiveWorkbook.SaveAs "direction/filename.xlsx"
+End Sub
+```
+2.
 
 ```vba
 Sub PIE()
