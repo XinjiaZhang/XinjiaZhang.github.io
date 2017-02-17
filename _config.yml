@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name:  张欣嘉
+name:  Xinjia Zhang
 
 # Short bio or description (displayed in the header)
-description: 半吊子的小傻子
+description: little fool
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://y.gtimg.cn/music/photo_new/T001R300x300M000003pHmtf4HYa5A.jpg?max_age=2592000
@@ -27,6 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
+  weibo: 嘉嘉_Happy
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
