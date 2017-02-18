@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for gallary in site.gallaries %}
-    <article class="post">
+<div class="gallaries">
+  {% for post in site.posts %}
+    <article class="gallary">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
