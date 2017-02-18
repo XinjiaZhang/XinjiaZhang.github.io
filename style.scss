@@ -241,12 +241,12 @@ nav {
 // .main
 //
 
-.gallary > .gallary {
+.gallaries > .gallary {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
 
-.gallary > .gallary:last-child {
+.gallaries > .gallary:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
@@ -271,7 +271,7 @@ nav {
   }
 }
 
-.post > .post {
+.posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
